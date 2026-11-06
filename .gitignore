@@ -1,0 +1,11 @@
+# 运行时数据与本地配置（含隐私/密钥）不入库
+data/
+reports/
+config/config.yaml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
